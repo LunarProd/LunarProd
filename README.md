@@ -12,7 +12,7 @@
 
 - 📝 Meu Portfolio: [https://lunarprod.github.io/lunar.dev-github/](https://lunarprod.github.io/lunar.dev-github/)
 
-- ⚡ Fatos: **Aos 9 anos fiz meu primeiro projeto com arduino e com 10 anos fiz o meu primeiro jogo e programei meu primeiro bot do discord em JavaScript. Aos 13 anos conheci as game engines e criei o meu primeiro jogo no Gamemaker Studio 2.**
+- ⚡ Fatos: **Aos 8 anos fiz meu primeiro projeto com arduino e com 10 anos fiz o meu primeiro jogo e programei meu primeiro bot do discord em JavaScript. Aos 13 anos conheci as game engines e criei o meu primeiro jogo no Gamemaker Studio 2.**
 
 - 📖 Trajetoria: https://pastebin.com/LCydLWw8
 
