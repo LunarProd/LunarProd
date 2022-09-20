@@ -1,6 +1,8 @@
 <h1 align="center">Olá me chamo Vitor Bruno</h1>
 <h3 align="center">Sou um adolescente aficionado em tecnologia desde os 8 anos de idade e até hoje sigo nesse ramo.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lunardev" alt="lunardev" /></a> </p>
+
 - 🔭 Atualmente trabalho em [Discord Bot Luna](https://discord.com/oauth2/authorize?client_id=751577486491648063&permissions=1133584&scope=bot)
 
 - 🌱 Atualmente Aprendo **Desenvolvimento de Jogos e Programação Avançada**
@@ -10,6 +12,8 @@
 - 🤖 Habilidades **Designer e Programador**
 
 - 📝 Meu Portfolio [https://lunarprod.github.io/lunar.dev-github/](https://lunarprod.github.io/lunar.dev-github/)
+
+- ⚡ Fatos **Atualmente utilizo apenas duas linguagem de programação para meus projetos: C++ & Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
