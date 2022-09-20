@@ -2,17 +2,17 @@
 <h3 align="center">Sou um adolescente aficionado em tecnologia desde os 8 anos de idade e até hoje sigo nesse ramo.</h3>
 
 
-- 🔭 Atualmente trabalho em [Discord Bot Luna](https://discord.com/oauth2/authorize?client_id=751577486491648063&permissions=1133584&scope=bot)
+- 🔭 Atualmente trabalho em: [Discord Bot Luna](https://discord.com/oauth2/authorize?client_id=751577486491648063&permissions=1133584&scope=bot)
 
-- 🌱 Atualmente Aprendo **Desenvolvimento de Jogos e Programação Avançada**
+- 🌱 Atualmente Aprendo: **Desenvolvimento de Jogos e Programação Avançada**
 
-- 💻 Conheça meus jogos [https://lunarproductions.itch.io](https://lunarproductions.itch.io)
+- 💻 Conheça meus jogos: [https://lunarproductions.itch.io](https://lunarproductions.itch.io)
 
-- 🤖 Habilidades **Designer e Programador**
+- 🤖 Habilidades: **Designer e Programador**
 
-- 📝 Meu Portfolio [https://lunarprod.github.io/lunar.dev-github/](https://lunarprod.github.io/lunar.dev-github/)
+- 📝 Meu Portfolio: [https://lunarprod.github.io/lunar.dev-github/](https://lunarprod.github.io/lunar.dev-github/)
 
-- ⚡ Fatos **Atualmente utilizo apenas duas linguagem de programação para meus projetos: C++ & Java**
+- ⚡ Fato: **Aos 9 anos fiz meu primeiro projeto com arduino e com 10 anos fiz o meu primeiro jogo e meu programei meu primeiro bot do discord.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
