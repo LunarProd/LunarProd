@@ -1,5 +1,5 @@
 <h1 align="center">Olá me chamo Vitor Bruno</h1>
-<h3 align="center">Sou um adolescente aficionado em tecnologia desde os 8 anos de idade e até hoje sigo nesse ramo.</h3>
+<h3 align="center">Sou um adolescente aficionado em tecnologia desde os 6 anos de idade e até hoje sigo nesse ramo.</h3>
 
 
 - 🔭 Atualmente trabalho em: [Discord Bot Luna](https://discord.com/oauth2/authorize?client_id=751577486491648063&permissions=1133584&scope=bot)
