@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalho em: [Discord Bot Luna](https://discord.com/oauth2/authorize?client_id=751577486491648063&permissions=1133584&scope=bot)
 
-- 🌱 Atualmente Aprendo: **Linguagens de Programação Avançado (C++ | Java)**
+- 🌱 Atualmente Aprendo: **Linguagens de Programação Avançado (C++ | Java) e Programação de Astronomia [Astropy](https://www.astropy.org)
 
 - 💻 Conheça meus jogos: [https://lunarproductions.itch.io](https://lunarproductions.itch.io)
 
