@@ -10,7 +10,7 @@
 
 - 📝 Meu Portfolio: [https://lunarprod.github.io/lunar.dev-github/](https://lunarprod.github.io/lunar.dev-github/)
 
-- 🧠 Interesses: **Fisica/Matematica | Astronomia | Robótica | Programação**
+- 🧠 Interesses: **Fisica | Astronomia | Robótica | Programação**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
