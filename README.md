@@ -4,18 +4,13 @@
 
 - 🔭 Atualmente trabalho em: [Discord Bot Luna](https://discord.com/oauth2/authorize?client_id=751577486491648063&permissions=1133584&scope=bot)
 
-- 🌱 Atualmente Aprendo: **Desenvolvimento de Jogos e Programação Avançada**
+- 🌱 Atualmente Aprendo: **Desenvolvimento de Jogos e Linguagens de Programação (C++ | Java)**
 
 - 💻 Conheça meus jogos: [https://lunarproductions.itch.io](https://lunarproductions.itch.io)
-
-- 🤖 Habilidades: **Designer e Programador**
 
 - 📝 Meu Portfolio: [https://lunarprod.github.io/lunar.dev-github/](https://lunarprod.github.io/lunar.dev-github/)
 
 - 🧠 Interesses: **Fisica/Matematica | Astronomia | Robótica | Programação**
-
-- ⚡ Fatos: **Aos 8 anos fiz meu primeiro projeto com arduino e com 10 anos fiz o meu primeiro jogo e programei meu primeiro bot do discord em JavaScript. Aos 13 anos conheci as game engines e criei o meu primeiro jogo no Gamemaker Studio 2.**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
