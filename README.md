@@ -1,18 +1,18 @@
-<h1 align="center">Olá me chamo Vitor Bruno</h1>
+<h1 align="center">Hello, Im Vitor</h1>
 
-<h3 align="center">Sou um adolescente aficionado em tecnologia desde os 6 anos de idade e até hoje sigo nesse ramo.</h3>
+<h3 align="center">I've been a teenager who has been passionate about technology since I was 6 years old</h3>
 
-- 📌 **Meus trabalhos ficam guardados aqui no github e meus jogos publicados no itch.io**
+- 📌 **All my works is posted here in github and my games in itch.io**
 
-- 🔭 Atualmente trabalho em: [Discord Bot Luna](https://discord.com/oauth2/authorize?client_id=751577486491648063&permissions=1133584&scope=bot)
+- 🔭 Currently im working in: [Discord Bot Luna](https://discord.com/oauth2/authorize?client_id=751577486491648063&permissions=1133584&scope=bot)
 
-- 🌱 Atualmente Aprendo: **Linguagens de Programação Avançado (C++ | Java)**
+- 🌱 Currently I Learn: **Avanced Programming Languages (C++ | Java)**
 
-- 💻 Conheça meus jogos: [https://lunarproductions.itch.io](https://lunarproductions.itch.io)
+- 💻 My Games: [https://lunarproductions.itch.io](https://lunarproductions.itch.io)
 
-- 📝 Meu Portfolio: [https://lunarprod.github.io/lunar.dev-github/](https://lunarprod.github.io/lunar.dev-github/)
+- 📝 My Portfolio: [https://lunarprod.github.io/lunar.dev-github/](https://lunarprod.github.io/lunar.dev-github/)
 
-- 🧠 Interesses: **Fisica | Astronomia | Robótica | Programação**
+- 🧠 Interests: **Physics | Astronomy | Robotic | Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
