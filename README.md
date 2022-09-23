@@ -1,6 +1,6 @@
 <h1 align="center">Hello, Im Vitor</h1>
 
-<h3 align="center">I've been a teenager who has been passionate about technology since I was 6 years old</h3>
+<h3 align="center">High School Student and Programmer </h3>
 
 - 📌 **All my works is posted here in github and my games in itch.io**
 
