@@ -1,7 +1,7 @@
 <h1 align="center">Hello, Im Vitor</h1>
 <h3 align="center">High School Student and Programmer</h3>
 
-- 📌 All my works is posted here in github and my games in itch.io
+- 📌 **All my works is posted here in github and my games in itch.io**
 
 - 💻 My Games: https://lunarproductions.itch.io 
 
