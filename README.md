@@ -1,11 +1,15 @@
 <h1 align="center">Hello, Im Vitor</h1>
 <h3 align="center">High School Student and Programmer</h3>
 
-- 💻 My Games: https://lunarproductions.itch.io **Desenvolvimento de Jogos e Programação Avançada**
+- 📌 All my works is posted here in github and my games in itch.io
+
+- 💻 My Games: https://lunarproductions.itch.io 
 
 - 🔭 Currently im working in: [Discord Bot Luna](https://discord.com/oauth2/authorize?client_id=751577486491648063&permissions=1133584&scope=bot)
 
-- 🌱 Currently I Learn: **Avanced Programming Languages (C++ | Java)**
+- 🌱 Currently I Learn: **Advanced Programming Languages (C++ | Java)**
+
+- 📝 My Portfolio: [Portfolio](https://lunarprod.github.io/lunar.dev-github/)
 
 - 🧠 Interests: **Physics | Astronomy | Robotic | Programming**
 
