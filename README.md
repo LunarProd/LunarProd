@@ -7,7 +7,7 @@
 
 - 🔭 Currently im working in: [Discord Bot Luna](https://discord.com/oauth2/authorize?client_id=751577486491648063&permissions=1133584&scope=bot)
 
-- 🌱 Currently I Learn: **Advanced Programming Languages (C++ | Java)**
+- 🌱 Currently I Learn: **Advanced Programming Languages (C++ | JavaScript)**
 
 - 📝 My Portfolio: [Portfolio](https://lunarprod.github.io/lunar.dev-github/)
 
