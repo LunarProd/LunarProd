@@ -3,7 +3,7 @@
 
 - 💻 My Portfolio: [Portfolio](https://lunarprod.github.io/lunar.dev-github/)
 
-- 🔭 Currently im working in: [Discord Bot Luna](https://discord.com/oauth2/authorize?client_id=751577486491648063&permissions=1133584&scope=bot)
+- 🔭 Currently im working in: ?
 
 - 🌱 Currently I Learn: **Full Stack | Arduino | Astrophysics**
 
