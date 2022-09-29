@@ -5,7 +5,7 @@
 
 - 🔭 Currently im working in: ?
 
-- 🌱 Currently I Learn: **Full Stack | Arduino | Astrophysics**
+- 🌱 Currently I Learn: **Programming in multi-languages | Arduino | Cosmology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
