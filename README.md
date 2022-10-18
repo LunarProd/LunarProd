@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Me chamo Vitor</h1>
-<h3 align="center">Estudante do Ensino Médio e de várias áreas do conhecimento</h3>
+<h3 align="center">Estudante do Ensino Médio e Futuro Astronomo</h3>
 
 - 💻 Meu Portfolio: [Portfolio](https://lunarprod.github.io/lunar.dev-github/)
 
