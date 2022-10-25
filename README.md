@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente trabalho em: ?
 
-- 🌱 Atualmente eu estudo : **Analise de dados cientificos | Arduino | Astronomia/AstroFisica & Astrofotografia**
+- 🌱 Atualmente eu estudo : **Analise de dados cientificos | Arduino | Astronomia/AstroFisica**
 
 <h3 align="left">Meios de Contato:</h3>
 <p align="left">
