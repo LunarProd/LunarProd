@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Me chamo Vitor</h1>
-<h3 align="center">Estudante e Extremamente Curioso :)</h3>
+<h3 align="center">Estudante e Desenvolvedor</h3>
 
 - 💻 Meu Portfolio: [Portfolio](https://lunarprod.github.io/lunar.dev-github/)
 
