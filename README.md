@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente trabalho em: ?
 
-- 🌱 Atualmente eu estudo : **Programação | Astrofisica | Astrofotografia | Criação de Jogos | Instrumento Musical**
+- 🌱 Areas de atuação : **Programação | Astrofisica | Criação de Jogos**
 
 <h3 align="left">Meios de Contato:</h3>
 <p align="left">
